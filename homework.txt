@@ -1,0 +1,3 @@
+Your project by the end of the homework should have: (At Minimum)
+- 3 Components (Build out a landing page and maybe a styled out nav bar)
+- Styled with basic CSS
